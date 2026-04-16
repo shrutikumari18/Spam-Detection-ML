@@ -38,16 +38,26 @@ This project is a Spam Detection System that classifies messages as **Spam** or 
 ## 📊 Output Example
 
 * Accuracy Score
+  <img width="340" height="68" alt="image" src="https://github.com/user-attachments/assets/06f473db-8b3a-4711-ad26-e30e1e9b6e5f" />
+
 * Classification Report
+  <img width="601" height="315" alt="image" src="https://github.com/user-attachments/assets/86c9e33d-7a5a-4735-8519-100ab6530fab" />
+
+
 * Confusion Matrix
+  <img width="236" height="87" alt="image" src="https://github.com/user-attachments/assets/f313e6e7-bc7e-46f4-ba07-1ddaf2fa250c" />
+
+  
 * Spam/Ham Prediction
+  <img width="520" height="176" alt="image" src="https://github.com/user-attachments/assets/bc418fe1-5489-4309-86d2-089c41e22cb5" />
+
 
 ---
 
 ## ▶️ How to Run
 
 ```bash
-python naive bayes.py
+python naive_bayes.py
 ```
 
 ---
