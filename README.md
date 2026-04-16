@@ -47,7 +47,7 @@ This project is a Spam Detection System that classifies messages as **Spam** or 
 ## ▶️ How to Run
 
 ```bash
-python spam_detector.py
+python naive bayes.py
 ```
 
 ---
@@ -57,3 +57,5 @@ python spam_detector.py
 * Use TF-IDF instead of CountVectorizer
 * Add GUI (Tkinter/Streamlit)
 * Deploy as a web app
+
+---
